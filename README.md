@@ -21,6 +21,4 @@ Desarrollado por: **Karol Hernandez Gracia** --> **Kdhg_dev**
 
 
 
-Esta herramienta es de uso gratuito para todos aquellos que deseen utilizarla.
 
-Gracias a este reto, pude fortalecer mis habilidades en el desarrollo de backend al crear una aplicación para convertir monedas, empleando la programación orientada a objetos y consumiendo una API en tiempo real. 
